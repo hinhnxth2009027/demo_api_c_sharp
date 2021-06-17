@@ -1,0 +1,11 @@
+C:\Users\5470\RiderProjects\API_C_Sharp\API_C_Sharp\bin\Debug\API_C_Sharp.exe
+C:\Users\5470\RiderProjects\API_C_Sharp\API_C_Sharp\bin\Debug\API_C_Sharp.pdb
+C:\Users\5470\RiderProjects\API_C_Sharp\API_C_Sharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5470\RiderProjects\API_C_Sharp\API_C_Sharp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\5470\RiderProjects\API_C_Sharp\API_C_Sharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5470\RiderProjects\API_C_Sharp\API_C_Sharp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\5470\RiderProjects\API_C_Sharp\API_C_Sharp\obj\Debug\API_C_Sharp.csprojAssemblyReference.cache
+C:\Users\5470\RiderProjects\API_C_Sharp\API_C_Sharp\obj\Debug\API_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\5470\RiderProjects\API_C_Sharp\API_C_Sharp\obj\Debug\API_C_Sharp.csproj.CopyComplete
+C:\Users\5470\RiderProjects\API_C_Sharp\API_C_Sharp\obj\Debug\API_C_Sharp.exe
+C:\Users\5470\RiderProjects\API_C_Sharp\API_C_Sharp\obj\Debug\API_C_Sharp.pdb
